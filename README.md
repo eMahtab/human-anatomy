@@ -13,3 +13,6 @@ The anatomy is created by combining individual SVG (e.g. head, orbit, neck, abdo
 All the SVG are created using [Figma](https://www.figma.com). The design is created using polygon and ellipse shape available in Figma. Figma ❤️ is awesome.
 
 ![Figma Design](images/figma-design.png?raw=true)
+
+## References :
+https://github.com/volcanioo/Human-Body-Rendering-HTML

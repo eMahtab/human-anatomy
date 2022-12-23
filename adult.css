@@ -9,13 +9,12 @@
 }
 
 .human-body svg:hover path {
-    fill: #ff7d16;
+    fill: #f14d49;
 }
 
 .human-body svg {
     position: absolute;
     left: 50%;
-    fill: #57c9d5;
 }
 
 .human-body svg#head {
@@ -96,5 +95,5 @@
 }
 
 .human-body svg:hover ellipse {
-    fill: #ff7d16;
+    fill: #f14d49;
 }

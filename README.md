@@ -1,5 +1,7 @@
 # Human Anatomy
 
+![Human Anatomy](images/Human%20Anatomy.gif?raw=true)
+
 ### Adult Anatomy :
 
 ![Adult Anatomy](images/adult-anatomy.png?raw=true)
